@@ -4,6 +4,7 @@ Welcome to the Credit Card Fraud Detection project repository! This project aims
 Credit card fraud is a serious concern in the financial industry, causing significant financial losses for both individuals and companies. The goal of this project is to build a predictive model that can effectively identify fraudulent transactions and minimize the impact of fraud.
 
 **The main components of this project are:**
+
 1.**Data Preprocessing:** The raw credit card transaction data is processed and cleaned to prepare it for analysis. This step involves handling missing values, scaling features, and encoding categorical variables.
 
 2.**Exploratory Data Analysis (EDA):** In this phase, the data is visualized and analyzed to gain insights into the distribution of features, transaction patterns, and potential correlations between variables. EDA helps in understanding the data and identifying any outliers or anomalies.
@@ -30,10 +31,11 @@ Credit card fraud is a serious concern in the financial industry, causing signif
 **To get started with this project, follow these steps:**
 
 1.*Clone this repository to your local machine using*
-    ```bash
-           git clone https://github.com/aloksharma-1/Credit-card-Fraud-Detection.git.
+      ```bash
+     git clone https://github.com/aloksharma-1/Credit-card-Fraud-Detection.git.
 
 2. **Navigate to the repository directory:*
+   
  cd Credit-card-Fraud-Detection.
 
 3.*Open and run the Jupyter Notebook Project_10_Credit_Card_Fraud_Detection.ipynb using Jupyter or any compatible environment.*

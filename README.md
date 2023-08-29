@@ -61,5 +61,4 @@ Credit card fraud is a serious concern in the financial industry, causing signif
  `
    pip install numpy pandas matplotlib seaborn scikit-learn tensorflow `
 
-
-  **_Feel free to explore, learn, and adapt this project to your own use case. If you have any questions or suggestions, please don't hesitate to contact me. Happy coding!_**
+**Feel free to explore, learn, and adapt this project to your own use case. If you have any questions or suggestions, please don't hesitate to contact me. Happy coding!**

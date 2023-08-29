@@ -48,13 +48,12 @@ Credit card fraud is a serious concern in the financial industry, causing signif
 ## Dependencies
 
 **The project notebook uses several Python libraries and packages. The main dependencies include:**
-<ul>
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-tensorflow (or keras)
-Other standard libraries
-     </ul>
+
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* scikit-learn
+* tensorflow (or keras)
+* Other standard libraries
 You can install these dependencies using a package manager like pip:

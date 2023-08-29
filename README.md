@@ -35,7 +35,7 @@ Credit card fraud is a serious concern in the financial industry, causing signif
 
 2. *Navigate to the repository directory:*
    
- cd Credit-card-Fraud-Detection.
+  <ins> cd Credit-card-Fraud-Detection.</ins>
 
 3.*Open and run the Jupyter Notebook Project_10_Credit_Card_Fraud_Detection.ipynb using Jupyter or any compatible environment.*
 
@@ -44,3 +44,17 @@ Credit card fraud is a serious concern in the financial industry, causing signif
 5.*Experiment with different algorithms, parameter settings, and preprocessing techniques to improve the model's performance.*
 
 6.*Feel free to modify the code and adapt it to your specific needs.*
+
+## Dependencies
+
+**The project notebook uses several Python libraries and packages. The main dependencies include:**
+<ul>
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow (or keras)
+Other standard libraries
+     </ul>
+You can install these dependencies using a package manager like pip:

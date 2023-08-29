@@ -58,4 +58,5 @@ Credit card fraud is a serious concern in the financial industry, causing signif
 * Other standard libraries
 * You can install these dependencies using a package manager like pip:
 
-'pip install numpy pandas matplotlib seaborn scikit-learn tensorflow' 
+ 'code'
+pip install numpy pandas matplotlib seaborn scikit-learn tensorflow 

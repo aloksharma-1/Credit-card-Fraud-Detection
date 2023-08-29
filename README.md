@@ -31,10 +31,9 @@ Credit card fraud is a serious concern in the financial industry, causing signif
 **To get started with this project, follow these steps:**
 
 1.*Clone this repository to your local machine using*
-      ```bash
      git clone https://github.com/aloksharma-1/Credit-card-Fraud-Detection.git.
 
-2. **Navigate to the repository directory:*
+2. *Navigate to the repository directory:*
    
  cd Credit-card-Fraud-Detection.
 
